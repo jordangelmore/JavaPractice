@@ -4,17 +4,11 @@ public class BottlesSong {
 
     public static void songStarter(int n) {
         int x = n - 1;
-        if (n > 1 ) {
+        if (n >= 1 ) {
             System.out.println(n + " bottles of beer on the wall, ");
             System.out.println(n + " bottles of beer, ");
             System.out.println("ya’ take one down, ya’ pass it around, ");
             System.out.println(x +" bottles of beer on the wall." );
-            songStarter(n - 1);
-        } else if (n == 1) {
-            System.out.println(n + " bottle of beer on the wall, ");
-            System.out.println(n + " bottles of beer ");
-            System.out.println("ya’ take one down, ya’ pass it around,");
-            System.out.println("No bottles of beer on the wall, ");
             songStarter(n - 1);
         } else {
             System.out.println("No bottles of beer on the wall, ");
