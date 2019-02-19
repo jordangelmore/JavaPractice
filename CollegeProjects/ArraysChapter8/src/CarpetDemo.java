@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Created by Gundam 240sx on 6/28/2016.
  */
-public class CarpetdEMO {
+public class CarpetDemo {
     public static void main(String[] args) {
 
         double length;
@@ -12,7 +12,7 @@ public class CarpetdEMO {
 
         Scanner keyboard = new Scanner(System.in);
 
-        System.out.println("Enter da length: ");
+        System.out.println("Enter the length: ");
         length = keyboard.nextDouble();
 
         System.out.println("enter width: ");
