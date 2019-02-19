@@ -1,0 +1,22 @@
+FirsName	LastName	exam1	exam2	Exam3	LetterGrade
+Miguel		soria		90	30	40	
+FirsName	LastName	exam1	exam2	Exam3	LetterGrade
+Miguel		Soria		90		30		50	
+FirsName	LastName	exam1	exam2	Exam3	LetterGrade
+yes		no		90		50		80	
+FirsName	LastName	exam1	exam2	Exam3	LetterGrade
+miguekl		suh		40		70		20	
+FirsName	LastName	exam1	exam2	Exam3	LetterGrade
+miranda		hanko		70		80		95	
+FirsName	LastName	exam1	exam2	Exam3	LetterGrade
+miguel		chohan		97		94		90	
+FirsName	LastName	exam1	exam2	Exam3	LetterGrade
+Hungary		budapest		90		80		70	
+FirsName	LastName	exam1	exam2	Exam3	LetterGrade
+miguel		soria		90		30		0	
+FirsName	LastName	exam1	exam2	Exam3	LetterGrade
+miguel		sorai		100		100		100	
+FirsName	LastName	exam1	exam2	Exam3	ExamAverage
+goku		cofihan		80		75		90		81.0
+FirsName	LastName	exam1	exam2	Exam3	ExamAverage
+chino		soria		60		40		100		66.0
